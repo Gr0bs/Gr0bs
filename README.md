@@ -1,4 +1,4 @@
-# _Robin  / @JackRob  _
+# Robin  / @JackRob
 Hi, My names is **Robin**, I'm actually a *Junior Web Developer* for [BeCode](www.becode.org) in formation !  :computer:  
 You can find some WebSite project I created during this formation, and more are coming next months. 
 I also like to code in *python* and create automation task, so there are some reposity with some test/or finished project. :heavy_check_mark:  
