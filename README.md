@@ -1,12 +1,32 @@
-# Robin  / @JackRob
-Hi, My names is **Robin**, I'm actually a *Junior Web Developer* for [BeCode](www.becode.org) in formation !  :computer:  
-You can find some WebSite project I created during this formation, and more are coming next months. 
-I also like to code in *python* and create automation task, so there are some reposity with some test/or finished project. :heavy_check_mark:  
+# Welcome to my Github Profile !
 
-## __My Skills__  
-:computer: HTML/ CSS/ Sass/ Javascript/ Python  
-:pencil2: Photoshop/ Illustrator/ Animate/ Figma/ Pen & paper  
-:sushi: Cooking  
+## My name is **Robin**,  
+## I'm a **junior Web Developer**  :godmode:  
+
+Actually, I'm a *Junior Web Developer* for [BeCode](www.becode.org) in formation ! :computer:  
+You will find some Website projects I created during this formation and somes I develop myself.
+
+I'm speacialize in Web Development, but I also like to code in *python* to create automation task and interesting in security and Mobile development too. :heavy_check_mark:  
+
+-----
+
+## __Web Skills__    
+
+ |**Front-End** | |**Back-End** |
+ |----------------|:-:|----------------:|
+ |       HTML       |    | JavaScript     |
+ |       CSS          |    | PHP                 |
+ |    JavaScript |    | MySQL            |
+ |       Sass         |    |                         |
+ |       Tailwind   |   |                         |
+   
+## **Others skills**
+| **Other** |
+|------------ |
+|  Python     |
+|   Ubuntu    |
+| Photoshop |
+| Illustrator |
 
 ## __Next section in coming !__
 
