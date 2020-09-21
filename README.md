@@ -1,4 +1,5 @@
 # Welcome to my Github Profile !
+![Giphy](https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif)
 
 ## My name is **Robin**,  
 ## I'm a **junior Web Developer**  :godmode:  
@@ -28,6 +29,13 @@ I'm speacialize in Web Development, but I also like to code in *python* to creat
 | Photoshop |
 | Illustrator |
 
-## __Next section in coming !__
+# :page_with_curl: Becode Projects 
+- [COGIP - Database and Auth](https://github.com/JackRob/TW-Cogip)
+- [Hackers Poulette](https://github.com/JackRob/hackers-poulette)
+- [Hangman](https://github.com/JackRob/B-2-Hangman)
+- [Cookie Clicker](https://github.com/JackRob/B-2-Cookie-Clicker)
+- [Restaurant Website](https://github.com/JackRob/restaurant-css-framework)
 
-![Giphy](https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif)
+# :dart: Personal stuff
+- [Portfolio](https://github.com/JackRob/Portfolio)
+- [Multi App Crash test](https://github.com/JackRob/MultiApp)
