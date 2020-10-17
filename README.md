@@ -11,23 +11,16 @@ I'm speacialize in Web Development, but I also like to code in *python* to creat
 
 -----
 
-## __Web Skills__    
+## __Skills__    
 
- |**Front-End** | |**Back-End** |
- |----------------|:-:|----------------:|
- |       HTML    | | NodeJs     |
- |       CSS     |    | PHP          |
- |    JavaScript |    | MySQL         |
- |       Sass    |    |      Laravel     |
- |       Tailwind   |   |       Django        |
-   
-## **Others skills**
-| **Other** |
-|------------ |
-|  Python     |
-|   Ubuntu    |
-| Photoshop |
-| Illustrator |
+ |**Front-End** | |**Back-End** | | **Other** |
+ |--------------|:-:|----------:|:--:|------------ |
+ |       HTML    | | NodeJs     | |  Python     |
+ |       CSS     || PHP         | |   Ubuntu    |
+ |    JavaScript || MySQL       | | Photoshop |
+ |       Sass    ||  Laravel    | | Illustrator |
+ |   Tailwind    ||  Django     | 
+ 
 
 # :page_with_curl: Becode Projects 
 - [COGIP - Database and Auth](https://github.com/JackRob/TW-Cogip)
@@ -38,4 +31,5 @@ I'm speacialize in Web Development, but I also like to code in *python* to creat
 
 # :dart: Personal stuff
 - [Portfolio](https://github.com/JackRob/Portfolio)
-- [Multi App Crash test](https://github.com/JackRob/MultiApp)
+- [Multi App Crash test](https://github.com/JackRob/MultiApp)  
+- [Little Script with Python](https://github.com/JackRob/LittlePythonScript)
