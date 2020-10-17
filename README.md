@@ -11,15 +11,15 @@ I'm speacialize in Web Development, but I also like to code in *python* to creat
 
 -----
 
-## __Skills__    
+## __Skills & predilection languages__    
 
- |**Front-End** | |**Back-End** | | **Other** |
- |--------------|:-:|----------:|:--:|------------ |
- |       HTML    | | NodeJs     | |  Python     |
- |       CSS     || PHP         | |   Ubuntu    |
- |    JavaScript || MySQL       | | Photoshop |
- |       Sass    ||  Laravel    | | Illustrator |
- |   Tailwind    ||  Django     | 
+ |**Back-End** | |**Front-End** | | **Other** |
+ |--------------|:--:|-----------:|:--:|------------ |
+ |       PHP    | |   HTML      | |  Python     |
+ |     Django ||    CSS         | |   Ubuntu    |
+ |     MySQL    ||   Javascript  | | Photoshop |
+ |      Laravel  ||           | | Illustrator |
+ |      NodeJs   ||           | 
  
 
 # :page_with_curl: Becode Projects 
