@@ -15,11 +15,11 @@ I'm speacialize in Web Development, but I also like to code in *python* to creat
 
  |**Front-End** | |**Back-End** |
  |----------------|:-:|----------------:|
- |       HTML       |    | JavaScript     |
- |       CSS          |    | PHP                 |
- |    JavaScript |    | MySQL            |
- |       Sass         |    |                         |
- |       Tailwind   |   |                         |
+ |       HTML    | | NodeJs     |
+ |       CSS     |    | PHP          |
+ |    JavaScript |    | MySQL         |
+ |       Sass    |    |      Laravel     |
+ |       Tailwind   |   |       Django        |
    
 ## **Others skills**
 | **Other** |
