@@ -1,8 +1,6 @@
 # Welcome to my Github Profile !
-![Giphy](https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif)
 
-## My name is **Robin**,  
-## I'm a **junior Web Developer**  :godmode:  
+## My name is **Robin**, I'm a **junior Web Developer**  :godmode:  
 
 Actually, I'm a *Junior Web Developer* for [BeCode](www.becode.org) in formation ! :computer:  
 You will find some Website projects I created during this formation and somes I develop myself.
