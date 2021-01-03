@@ -21,13 +21,13 @@ I'm speacialize in Web Development, but I also like to code in *python* to creat
  
 
 # :page_with_curl: Becode Projects 
-- [COGIP - Database and Auth](https://github.com/JackRob/TW-Cogip)
-- [Hackers Poulette](https://github.com/JackRob/hackers-poulette)
-- [Hangman](https://github.com/JackRob/B-2-Hangman)
-- [Cookie Clicker](https://github.com/JackRob/B-2-Cookie-Clicker)
-- [Restaurant Website](https://github.com/JackRob/restaurant-css-framework)
+- [COGIP - Database and Auth](https://github.com/Gr0bs/TW-Cogip)
+- [Hackers Poulette](https://github.com/Gr0bs/hackers-poulette)
+- [Hangman](https://github.com/Gr0bs/B-2-Hangman)
+- [Cookie Clicker](https://github.com/Gr0bs/B-2-Cookie-Clicker)
+- [Restaurant Website](https://github.com/Gr0bs/restaurant-css-framework)
 
 # :dart: Personal stuff
-- [Portfolio](https://github.com/JackRob/Portfolio)
-- [Multi App Crash test](https://github.com/JackRob/MultiApp)  
-- [Little Script with Python](https://github.com/JackRob/LittlePythonScript)
+- [Portfolio](https://github.com/Gr0bs/Portfolio)
+- [Multi App Crash test](https://github.com/Gr0bs/MultiApp)  
+- [Little Script with Python](https://github.com/Gr0bs/LittlePythonScript)
