@@ -2,10 +2,8 @@
 
 ## My name is **Robin**, I'm a **junior Web Developer**  :godmode:  
 
-Actually, I'm a *Junior Web Developer* for [BeCode](www.becode.org) in formation ! :computer:  
-You will find some Website projects I created during this formation and somes I develop myself.
-
-I'm speacialize in Web Development, but I also like to code in *python* to create automation task and interesting in security and Mobile development too. :heavy_check_mark:  
+I did a formation in [BeCode](https://becode.org/) during 7 months with a internship after that. 
+Attracted by funny stuff, I like to create some project in Javascript, because "In Javascript I trust". Creating Bot for Discord, application in react, .. 
 
 -----
 
@@ -13,11 +11,10 @@ I'm speacialize in Web Development, but I also like to code in *python* to creat
 
  |**Back-End** | |**Front-End** | | **Other** |
  |--------------|:--:|-----------:|:--:|------------ |
- |       PHP    | |   HTML      | |  Python     |
- |     Django ||    CSS         | |   Ubuntu    |
+ |    NodeJs    | |   HTML      | |   Ubuntu    |
+ |     PHP    ||    CSS         | |    Illustrator   |
  |     MySQL    ||   Javascript  | | Photoshop |
- |      Laravel  ||           | | Illustrator |
- |      NodeJs   ||           | 
+
  
 
 # :page_with_curl: Becode Projects 
