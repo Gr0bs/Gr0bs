@@ -5,6 +5,8 @@
 I did a formation in [BeCode](https://becode.org/) during 7 months with a internship after that. 
 Attracted by funny stuff, I like to create some project in Javascript, because "In Javascript I trust". Creating Bot for Discord, application in react, .. 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gr0bs&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 -----
 
 ## __Skills & predilection languages__    
