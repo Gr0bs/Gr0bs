@@ -44,6 +44,7 @@ Also, I'm a **versus fighting games fan** so I like having challenge and fails t
 ## :scroll: Somes projects  
 >Somes project are just for fun, some other are real project. This is just an exemple of what can I do.
 
+- [Githubook](https://githubook.netlify.app/) - A Githubook Social Media (WIP)
 - [Albus Dumblebot](https://github.com/Gr0bs/Albus_Dumblebot) - A Discord bot with where I put everything I want to try with this API
 - [Hangman](https://github.com/Gr0bs/B-2-Hangman) - Not the best project, but this is always fun to do
 - [Funny Script](https://github.com/Gr0bs/LittlePythonScript) - Little script create with Python
